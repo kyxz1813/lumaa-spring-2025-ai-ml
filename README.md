@@ -1,4 +1,4 @@
-# Hybrid Movie Recommendation System
+# Movie Recommendation System
 
 This project implements a movie recommendation system that employ both TF-IDF and Sentence Transformer embeddings to suggest movies based on a user’s query.
 
@@ -18,16 +18,16 @@ This project implements a movie recommendation system that employ both TF-IDF an
 - **Python Version:**  
   Python 3.7 or higher is recommended.
 
-# Install Dependencies:
+## Install Dependencies:
 
-Install the required packages using:
+- Install the required packages using:
 
 pip install -r requirements.txt
 
 
-# Running the Code
+## Running the Code
 
-To run the recommendation system from the command line, use the following command:
+- To run the recommendation system from the command line, use the following command:
 
 python recommendation_system.py data/full_movies.csv "I love thrilling action movies set in space, with a comedic twist."
 
