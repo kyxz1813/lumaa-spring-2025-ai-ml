@@ -1,6 +1,6 @@
 # Movie Recommendation System
 
-This project implements a movie recommendation system that employ both TF-IDF and Sentence Transformer embeddings to suggest movies based on a user’s query.
+This project implements a movie recommendation system that employs both TF-IDF and Sentence Transformer embeddings to suggest movies based on a user’s query.
 
 ## Dataset: full_movies.csv
 
